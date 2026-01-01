@@ -5,4 +5,10 @@ print(c)
 
 d = int(input())
 e = int(input())
+
+
 print(d-e)
+
+
+print(1)
+print(2)
