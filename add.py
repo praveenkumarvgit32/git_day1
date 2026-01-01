@@ -5,5 +5,5 @@ print(c)
 
 d = int(input())
 e = int(input())
-f = d+e
+f = d-e
 print(f)
